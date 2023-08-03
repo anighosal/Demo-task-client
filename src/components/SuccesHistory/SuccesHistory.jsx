@@ -13,7 +13,7 @@ const SuccesHistory = ({ winner }) => {
       >
         <Card.Img
           className="card-img-top"
-          style={{ height: "10rem" }}
+          style={{ height: "12rem" }}
           variant="top"
           src={image}
         />
