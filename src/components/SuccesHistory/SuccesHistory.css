@@ -1,0 +1,14 @@
+.story {
+    /* ... your existing styles ... */
+    overflow: hidden; /* Ensure image overflow is hidden */
+  }
+  
+  .story .card-img-top {
+    transition: transform 0.3s, filter 0.3s;
+  }
+  
+  .story:hover .card-img-top {
+    transform: scale(1.1); /* Apply zoom effect on hover */
+    filter: brightness(70%); /* Dim the image on hover */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }

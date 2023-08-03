@@ -12,11 +12,8 @@ const Job = ({ job }) => {
         </div>
         <Card.Body>
           <Card.Title>{title}</Card.Title>
-          <Card.Title>{description}</Card.Title>
-          <Card.Text>
-            Join our team of skilled software engineers & Product Manager and
-            contribute to cutting-edge projects in the tech industry.
-          </Card.Text>
+          <Card.Text>{description}</Card.Text>
+
           <Button variant="outline-success">
             View More <FaArrowRight></FaArrowRight>{" "}
           </Button>

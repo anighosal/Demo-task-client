@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "company": "Tech Innovators Inc.",
+      "name": "John Doe",
+      "description": "Our team helped Tech Innovators Inc. optimize their website and implement data-driven strategies, resulting in a 150% increase in sales within six months.",
+      "image": "https://www.linkpicture.com/q/istockphoto-1319763895-612x612.jpg"
+    },
+    {
+      "id": 2,
+      "company": "Healthcare Solutions Ltd.",
+      "name": "Jane Smith",
+      "description": "Working closely with Healthcare Solutions Ltd., we developed a cutting-edge telemedicine platform that connected doctors and patients remotely, providing essential care during the pandemic.",
+      "image": "https://www.linkpicture.com/q/photo-1557862921-37829c790f19.jpg"
+    },
+    {
+      "id": 3,
+      "company": "FinTech Innovate Corp.",
+      "name": "Michael Johnson",
+      "description": "Our collaboration with FinTech Innovate Corp. led to the creation of a powerful AI-driven algorithm that enhanced fraud detection, safeguarding millions of transactions.",
+      "image": "https://www.linkpicture.com/q/photo-1506794778202-cad84cf45f1d.jpg"
+    },
+    {
+      "id": 4,
+      "company": "Global EdTech Solutions",
+      "name": "Emily Davis",
+      "description": "By developing an interactive e-learning platform, we empowered Global EdTech Solutions to deliver engaging lessons to students worldwide, creating a positive impact on the future of education.",
+      "image": "https://www.linkpicture.com/q/photo-1568602471122-7832951cc4c5.jpg"
+    }
+  ]
+  

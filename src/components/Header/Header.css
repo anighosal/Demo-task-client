@@ -1,4 +1,7 @@
 .caption-top{
-top: 50%
+    position: absolute;
+    top: 50%; /* Adjust this value to control the vertical position */
+    left: 0;
+    right: 0;
 
 }

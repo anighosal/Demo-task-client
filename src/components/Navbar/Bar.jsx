@@ -11,7 +11,7 @@ const Bar = () => {
       <Navbar
         className="mx-auto"
         fixed="top"
-        bg="dark"
+        bg="secondary"
         style={{ zIndex: 100 }}
         collapseOnSelect
         expand="lg"

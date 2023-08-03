@@ -9,10 +9,8 @@ const FeaturedJob = () => {
   const jobList = useLoaderData();
   console.log(jobList);
   return (
-    <Container>
-      <h2 className="text-center mt-5 bg-success text-white">
-        Featured Job Listings
-      </h2>
+    <Container className="bg-secondary">
+      <h2 className="text-center mt-5 text-white">Featured Job Listings</h2>
       <div className="d-flex mt-5 job-listing">
         {jobList.map((job) => (
           <Job key={Job.id} job={job}></Job>
