@@ -1,7 +1,12 @@
 import React from "react";
+import FeaturedJob from "../FeaturedJob/FeaturedJob";
 
 const Home = () => {
-  return <div>home</div>;
+  return (
+    <div>
+      <FeaturedJob></FeaturedJob>
+    </div>
+  );
 };
 
 export default Home;
